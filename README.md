@@ -14,6 +14,6 @@
 <img src="https://github.com/Felipereis22/Wide-Coverage-Location/blob/master/assets/Desktop__ilustra%C3%A7%C3%A3o_.png?raw=true">
 <br>
 <br>
-<img src="https://github.com/Felipereis22/Wide-Coverage-Location/blob/master/assets/Mobile%20-%20Wide.png?raw=true">
+<img src="https://github.com/Felipereis22/Wide-Coverage-Location/blob/master/assets/Design_-_Mobile-.png?raw=true">
 
 _
